@@ -42,3 +42,9 @@ This project was developed with the primary objective of studying and applying t
 | previous    | Feature | Integer     | Number of contacts performed before the campaign and for the specific client                                                                                                                                                                                                                                                                                                                                       |       |                |
 | poutcome    | Feature | Categorical | Outcome of the previous marketing campaign (failure, nonexistent, sucess)                                                                                                                                                                                                                                                                                                                                          |       |                |
 | y           | Target  | Binary      | Has the client subscribed a term deposit?                                                                                                                                                                                                                                                                                                                                                                          |       |                |
+
+
+## Demonstration
+
+https://github.com/user-attachments/assets/993399fb-2abe-4ddd-9ef3-dda8a7976540
+
